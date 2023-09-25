@@ -1,0 +1,38 @@
+main()
+{
+ int n1,n2,res;
+ clrscr();
+ printf("Enter Large Number: ");
+ scanf("%d",&n1);
+ printf("Enter Small Number: ");
+ scanf("%d",&n2);
+ clrscr();
+ 
+ printf("\nLarger Number is" %d",n1);
+ printf("\nSmaller Number is" %d",n2);
+ res=n1+n2;
+ clrscr();
+  
+  
+ printf("\nLarger Number is" %d",n1);
+ printf("\nSmaller Number is" %d",n2);
+ res=n1-n2;
+ clrscr();
+ 
+ printf("\nLarger Number is" %d",n1);
+ printf("\nSmaller Number is" %d",n2);
+ res=n1*n2;
+ clrscr();
+ 
+ printf("\nLarger Number is" %d",n1);
+ printf("\nSmaller Number is" %d",n2);
+ res=n1/n2;
+ clrscr();
+
+ printf("\nAddition of 2 Number is: %d",res);
+ printf("\nSubstraction of 2 Number is: %d",res);
+ printf("\nMultiplicatin of 2 Number is: %d",res);
+ printf("\nDivision of 2 Number is: %d",res);
+
+getch();
+}
